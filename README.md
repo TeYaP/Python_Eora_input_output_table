@@ -1,0 +1,2 @@
+# Python_Eora_input_output_table
+The EORA IO tables are not that easy to manage. The extraction of some sub tables helps to understand some data. The following code allows the extraction of the “make” and “use” tables into python dictionary.  Put the EORA data in a folder. Inform the “basepath” of this folder. Fill in the code country ("country_code") initial and final year wanted ("year_min" &amp; "year_max") the price type ("price_type") and the table type ("table") make or use… Execute the code. You will find the wanted data in a python dictionary called “dict_table”.
